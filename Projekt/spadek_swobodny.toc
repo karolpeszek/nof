@@ -1,0 +1,7 @@
+\babel@toc {polish}{}\relax 
+\beamer@sectionintoc {1}{Wstęp i klasyfikacja oporów}{3}{0}{1}
+\beamer@sectionintoc {2}{Fizyka powstawania oporu}{6}{0}{2}
+\beamer@sectionintoc {3}{Model I: Opór Liniowy (Prawo Stokesa)}{9}{0}{3}
+\beamer@sectionintoc {4}{Model II: Opór Kwadratowy (Turbulentny)}{13}{0}{4}
+\beamer@sectionintoc {5}{Współczynniki aerodynamiczne w praktyce}{17}{0}{5}
+\beamer@sectionintoc {6}{Podsumowanie i Zadania}{18}{0}{6}
